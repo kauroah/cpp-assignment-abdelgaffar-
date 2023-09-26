@@ -1,0 +1,3 @@
+/home/kauro/CLionProjects/cpp-assighnment-abdelgaffar/cmake-build-debug/CMakeFiles/cpp_assighnment_abdelgaffar.dir
+/home/kauro/CLionProjects/cpp-assighnment-abdelgaffar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kauro/CLionProjects/cpp-assighnment-abdelgaffar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
